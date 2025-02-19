@@ -1,0 +1,249 @@
+.container {
+  /* max-width: 81%; */
+  max-width: 1300px;
+  margin: 0 auto;
+
+  box-sizing: border-box;
+}
+
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-item {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.nav-item h2 {
+  color: rgba(19, 19, 19, 0.70);
+  font-size: 16px;
+
+
+}
+
+.main-section {
+  background-repeat: no-repeat;
+  border-radius: 24px;
+  border: 1px solid rgba(19, 19, 19, 0.10);
+  background: url('./images/bg-shadow.png'), #131313;
+  margin-bottom: 50px;
+  height: 545px;
+}
+
+.main-section-item {
+  margin-top: 60px;
+  text-align: center;
+}
+
+.main-section-item h2 {
+  color: #FFF;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 60px;
+  /* 150% */
+}
+
+.main-section-item h3 {
+  color: rgba(255, 255, 255, 0.70);
+  text-align: center;
+  font-size: 24px;
+  font-weight: 500;
+  
+}
+
+.main-section-item button {
+  padding: 10px 15px;
+  border-radius: 10px;
+  background-color: #E7FE29;
+  color: #131313;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+
+
+/* .selected-player{
+  display: none;
+  
+} */
+
+.player-container{
+  /* display: none; */
+}
+.selected-player{
+ display: grid;
+ gap: 10px;
+
+}
+.selected-player-style{
+  border: 2px solid gray;
+  border-radius: 10px;
+}
+.btn-conatiner button {
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+}
+.btn-conatiner button:hover {
+ background-color: #E7FE29;
+}
+
+
+.player-name{
+  display: flex;
+  flex-wrap: wrap;
+justify-content: center;
+}
+.player-img{
+  width: 300px;
+ 
+}
+.player-img img{
+  border-radius: 10px;
+  width: 100%;
+  height: 350px;
+  }
+.Choose-player-btn:hover{
+background-color: #E7FE29;
+}
+
+
+
+/* ////////////////////// */
+.footer {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+
+.footer input {
+  padding: 13px;
+  border-radius: 8px;
+  min-width: 400px;
+  border-radius: 12px;
+  border: 1px solid rgba(19, 19, 19, 0.15);
+  background: #FFF;
+}
+
+.footer button {
+  padding: 18px 30px;
+  border-radius: 12px;
+  background: url(<path-to-image>) lightgray -70.368px -114.596px / 202.941% 524.472% no-repeat;
+  background-color: #E7FE29;
+  box-shadow: 4px 4px 20px 0px rgba(19, 19, 19, 0.30) inset;
+  color: #131313;
+  font-size: 16px;
+  font-weight: 700;
+  border: none;
+}
+.footer-content h2{
+  color: #131313;
+  text-align: center;
+  font-size: 32px;
+  font-weight: 700;
+}
+.footer-content h3{
+  color: rgba(19, 19, 19, 0.70);
+  text-align: center;
+  font-size: 20px;
+  font-weight: 500;
+}
+/* ////// */
+.footer-container {
+
+  display: flex;
+  justify-content: space-between;
+  
+
+}
+.main-footer{
+  background-color: black;
+  height: 500px;
+}
+
+
+
+.new-footer {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+
+.new-footer input {
+  padding: 13px;
+  border-radius: 8px;
+  min-width: 200px;
+  border-radius: 12px;
+  border: 1px solid rgba(19, 19, 19, 0.15);
+  background: #FFF;
+}
+
+.footer button {
+  padding: 18px 30px;
+  border-radius: 12px;
+  background: url(<path-to-image>) lightgray -70.368px -114.596px / 202.941% 524.472% no-repeat;
+  background-color: #E7FE29;
+  box-shadow: 4px 4px 20px 0px rgba(19, 19, 19, 0.30) inset;
+  color: #131313;
+  font-size: 16px;
+  font-weight: 700;
+  border: none;
+}
+
+
+
+/* .main-footer ,h3{
+  color: #FFF;
+  font-size: 18px;
+  line-height: normal;
+} */
+.main-footer {
+  color: #FFF;
+  font-size: 18px;
+  line-height: normal;
+}
+/* .main-footer ,h4{
+  color: rgba(255, 255, 255, 0.60);
+  font-size: 16px;
+  line-height: 26px; 
+} */
+.main-footer {
+  color: rgba(255, 255, 255, 0.60);
+  font-size: 16px;
+  line-height: 26px; /* 162.5% */
+}
+/* ........... */
+.player-info{
+  /* border: 2px solid ; */
+  width: 350px;
+  text-align: center;
+  padding: 10px;
+}
+
+.player-img img{
+  width: 100%;
+ 
+}
+.player-info h2{
+  color: black;
+}
+.player-info h3{
+  color: black;
+}
+.player-info h4{
+  color: black;
+}
+.player-info h5{
+  color: black;
+}
+.player-info button{
+  padding: 5px 10px ;
+  border: none;
+  border-radius: 5px;
+}

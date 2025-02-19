@@ -1,0 +1,102 @@
+[
+    {
+      "playerId": 1,
+      "name": "Virat Kohli",
+      "country": "India",
+      "image": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "role": "Batsman",
+      "battingType": "Right-hand Bat",
+      "bowlingType": "Right-arm Medium",
+      "biddingPrice": "400000"
+    },
+    {
+      "playerId": 2,
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "image": "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "role": "Batsman",
+      "battingType": "Right-hand Bat",
+      "bowlingType": "Right-arm Offbreak",
+      "biddingPrice": "500000"
+    },
+    {
+      "playerId": 3,
+      "name": "Steve Smith",
+      "country": "Australia",
+      "image": "https://images.pexels.com/photos/736716/pexels-photo-736716.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "role": "Batsman",
+      "battingType": "Right-hand Bat",
+      "bowlingType": "Right-arm Legbreak",
+      "biddingPrice": "700000"
+    },
+    {
+      "playerId": 4,
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "image": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "role": "Batsman",
+      "battingType": "Right-hand Bat",
+      "bowlingType": "Right-arm Offbreak",
+      "biddingPrice": "800000"
+    },
+    {
+      "playerId": 5,
+      "name": "Jos Buttler",
+      "country": "England",
+      "image": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "role": "Wicketkeeper-Batsman",
+      "battingType": "Right-hand Bat",
+      "bowlingType": "N/A",
+      "biddingPrice": "900000"
+    },
+    {
+      "playerId": 6,
+      "name": "Rashid Khan",
+      "country": "Afghanistan",
+      "image": "https://images.pexels.com/photos/428333/pexels-photo-428333.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "role": "Bowler",
+      "battingType": "Right-hand Bat",
+      "bowlingType": "Right-arm Legbreak",
+      "biddingPrice": "500000"
+    },
+    {
+      "playerId": 7,
+      "name": "Trent Boult",
+      "country": "New Zealand",
+      "image": "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "role": "Bowler",
+      "battingType": "Right-hand Bat",
+      "bowlingType": "Left-arm Fast",
+      "biddingPrice": "600000"
+    },
+    {
+      "playerId": 8,
+      "name": "Pat Cummins",
+      "country": "Australia",
+      "image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "role": "Bowler",
+      "battingType": "Right-hand Bat",
+      "bowlingType": "Right-arm Fast",
+      "biddingPrice": "700000"
+    },
+    {
+      "playerId": 9,
+      "name": "Ben Stokes",
+      "country": "England",
+      "image": "https://images.pexels.com/photos/775358/pexels-photo-775358.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "role": "All-rounder",
+      "battingType": "Left-hand Bat",
+      "bowlingType": "Right-arm Medium",
+      "biddingPrice": "300000"
+    },
+    {
+      "playerId": 10,
+      "name": "Hardik Pandya",
+      "country": "India",
+      "image": "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "role": "All-rounder",
+      "battingType": "Right-hand Bat",
+      "bowlingType": "Right-arm Fast-Medium",
+      "biddingPrice": "400000"
+    }
+  ]
