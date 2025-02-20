@@ -14,7 +14,7 @@ const SinglePage = ({ singleElement, handleChoosePlayer, claim, totalBiddingPric
                 <button
                     className="Choose-player-btn"
                     onClick={() => handleChoosePlayer(singleElement)}
-                    disabled={isDisabled}
+                   
                 >
                     Choose Player
                 </button>
@@ -27,25 +27,3 @@ export default SinglePage;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-//for testing 
-// const isDisabled = claim < totalBiddingPrice + playerPrice;
-{/* <button
-                    className="Choose-player-btn"
-                    onClick={() => handleChoosePlayer(singleElement)}
-                    disabled={isDisabled}
-                >
-                    Choose Player
-                </button> */}
